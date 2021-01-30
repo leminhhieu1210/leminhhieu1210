@@ -1,16 +1,26 @@
-### Hi there 👋
+# leminhhieu
+#### My Bio  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.com/channels/769562184233254913/805095263680593952">
+  <img align="left" alt="HieuLeMinh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a> <a href="https://www.facebook.com/leminhhieu8/">
+  <img align="left" alt="HieuLeMinh's Facebook | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a> <a href="https://www.linkedin.com/in/hieuleminh/">
+  <img align="left" alt="HieuLeMinh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> <a href="https://www.hackerrank.com/hieuleminh1210">
+  <img align="left" alt="HieuLeMinh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 
-<!--
-**leminhhieu1210/leminhhieu1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, My name is Hieu Le Minh, a AI Engineer Intern from Vietnam.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### **Personal Stuffs:**
+
+- 🌱 I’m a student at University of Transport and Communications.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: hieuleminh1210@gmail.com
+- 📝[Resume](https://www.topcv.vn/xem-cv/e9c029369a3acebff65fea512ae21221)
+
+📊 **My Skills:**
+
+![](https://img.shields.io/badge/Language-C%2FC%2B%2B-red?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffff1a)![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff8533)![](https://img.shields.io/badge/Framework-Keras-blue?style=flat&logo=<LOGO_NAME>&logoColor=white&color=66a3ff)
