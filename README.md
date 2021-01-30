@@ -10,16 +10,17 @@
   <img align="left" alt="HieuLeMinh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-Hi, My name is Hieu Le Minh, a AI Engineer Intern from Vietnam.
+Hi, my name is Hieu Le Minh.
+I'm a AI Engineer Intern from Vietnam.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="490" height="320" />
 
 ##### **Personal Stuffs:**
 
 - 🌱 I’m a student at University of Transport and Communications.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: hieuleminh1210@gmail.com
-- 📝[Resume](https://www.topcv.vn/xem-cv/e9c029369a3acebff65fea512ae21221)
+- 📝[MyResume](https://www.topcv.vn/xem-cv/e9c029369a3acebff65fea512ae21221)
 
 📊 **My Skills:**
 
