@@ -20,7 +20,7 @@ I'm a AI Engineer Intern from Vietnam.
 - 🌱 I’m a student at University of Transport and Communications.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: hieuleminh1210@gmail.com
-- 📝[MyResume](https://www.topcv.vn/xem-cv/e9c029369a3acebff65fea512ae21221)
+- 📝[MyResume](https://www.topcv.vn/xem-cv/VF1UAgEIA1NdAgNRVQEDAgAEBF9VAlRQVlRdAg1221)
 
 📊 **My Skills:**
 
