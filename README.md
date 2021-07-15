@@ -11,7 +11,7 @@
 </a>
 
 Hi, my name is Hieu Le Minh.
-I'm a AI Engineer Intern from Vietnam.
+I'm an AI Engineer Intern from Vietnam.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="490" height="320" />
 
