@@ -24,4 +24,4 @@ I'm an AI Engineer Intern from Vietnam.
 
 📊 **My Skills:**
 
-![](https://img.shields.io/badge/Language-C%2FC%2B%2B-red?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffff1a)![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff8533)![](https://img.shields.io/badge/Framework-Keras-blue?style=flat&logo=<LOGO_NAME>&logoColor=white&color=66a3ff)
+![](https://img.shields.io/badge/Language-C%2FC%2B%2B-red?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffff1a)![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff8533)![](https://img.shields.io/badge/Framework-Pytorch-brightgreen?style=flat&logo=<LOGO_NAME>&logoColor=white&color=66a3ff)
