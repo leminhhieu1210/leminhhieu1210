@@ -11,16 +11,16 @@
 </a>
 
 Hi, my name is Hieu Le Minh.
-I'm an AI Engineer Intern from Vietnam.
+I'm an AI Engineer from Vietnam.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="490" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="490" height="320" />
 
 ##### **Personal Stuffs:**
 
 - 🌱 I’m a student at University of Transport and Communications.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: hieuleminh1210@gmail.com
-- 📝[MyResume](https://www.topcv.vn/xem-cv/VF1UAgEIA1NdAgNRVQEDAgAEBF9VAlRQVlRdAg1221)
+- 📝 [MyResume](https://www.topcv.vn/xem-cv/BAAKB1ZSUglTBAQIVVAGC1pbUlUHCwEBVV9SUg518c)
 
 📊 **My Skills:**
 
